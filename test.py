@@ -1,1 +1,1 @@
-print("他テスト")
+print("pullテスト")
