@@ -1,1 +1,1 @@
-print("add commit push")
+print("pullテスト")
