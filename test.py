@@ -1,1 +1,1 @@
-print("コンフリテスト")
+print("add commit push")
